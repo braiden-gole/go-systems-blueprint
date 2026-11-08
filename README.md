@@ -29,6 +29,10 @@
     <sub>Supports 🌜Dark and ☀️ Light modes</sub>
   </p>
 
+  <p align="center">
+    [Go Systems Blueprint Web version](https://braiden-gole.github.io/go-systems-blueprint-book/)
+  </p>
+
   ---
 
 </div>
