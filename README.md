@@ -30,7 +30,7 @@
   </p>
 
   <p align="center">
-    <sub>[Go Systems Blueprint Web version](https://braiden-gole.github.io/go-systems-blueprint-book/)</sub>sub>
+    <sub>[Go Systems Blueprint Web version](https://braiden-gole.github.io/go-systems-blueprint-book/)</sub>
   </p>
 
   ---
